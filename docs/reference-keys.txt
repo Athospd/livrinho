@@ -1,0 +1,13 @@
+fig:nice-fig
+tab:nice-tab
+introaaa
+literature
+methods
+applications
+example-one
+example-two
+final-words
+titulo-ok
+novo-capitulo
+r-markdown
+including-plots
